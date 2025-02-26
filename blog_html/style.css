@@ -113,17 +113,17 @@ input:checked+label .description {
 }
 
 .card[for='c1'] {
-    background-image: url('./1.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/y-shi23/CDN/blog_html/1.jpg');
 }
 
 .card[for='c2'] {
-    background-image: url('./2.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/y-shi23/CDN/blog_html/2.jpg');
 }
 
 .card[for='c3'] {
-    background-image: url('./3.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/y-shi23/CDN/blog_html/3.jpg');
 }
 
 .card[for='c4'] {
-    background-image: url('./4.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/y-shi23/CDN/blog_html/4.jpg');
 }
